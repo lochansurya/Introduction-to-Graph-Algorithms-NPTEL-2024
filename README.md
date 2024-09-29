@@ -19,4 +19,4 @@
 | 5|**4 Algorithms for APSP : Bellman-Ford, Semi-Ring Matrix Multiplicaiton, Floyd-Warshall's, Johnsoon's Algorithm**| There is a notion of k-paths involved in Floyd-Warshall's algorithm for APSP. Johnson's Algorithm is better than Floyd-Warshall's Algorithm to solve APSP. Also, it is better for **sparse graphs**.|
 | 6|**Prim's and Kruskal's Algorithm - MST**| MST is the Minimum Cost Spanning Tree induced by all the vertices of the graph(undirected and connected). |
 | 7|**DFS and Cut-Vertex**| An algorithm was introduced to find the cut vertex of a graph(undirected) by exploiting the **control points** of the DFS algorithm.|
-| 8|**Strongly Connected Components(SCC), BFS**| Notion of Condensed DAG for SCC and the algorithm for finding the SCCs of a graph(undirected), and the Bradth-First Search. |
+| 8|**Strongly Connected Components(SCC), BFS**| Notion of Condensed DAG for SCC and the algorithm for finding the SCCs of a graph(directed), and the Bradth-First Search. |
