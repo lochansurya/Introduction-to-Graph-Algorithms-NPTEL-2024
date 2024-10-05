@@ -4,6 +4,12 @@
 - Institute: IISc, Bangalore
 - Duration: 8 Weeks
 - Term: July - December, 2024
+  
+## Pre-requisites(My Opinion)
+1. A decent idea about and experience in programming data structures(**DSA**).
+2. **Discrete Mathematics**(Preferably the syllabus of GATE CS)
+3. Familiarity with the standard **Algorithms** taught in Computer Science(preferably a university-level course) to quickly catch up with the lectures.
+4. **Problem-Solving exposure**.
 
 ## References
 1. Introduction to Algorithms by CLRS, 3rd Edition.
