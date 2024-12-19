@@ -26,3 +26,6 @@
 | 6|**Prim's and Kruskal's Algorithm - MST**| MST is the Minimum Cost Spanning Tree induced by all the vertices of the graph(undirected and connected). |
 | 7|**DFS and Cut-Vertex**| An algorithm was introduced to find the cut vertex of a graph(undirected) by exploiting the **control points** of the DFS algorithm.|
 | 8|**Strongly Connected Components(SCC), BFS**| Notion of Condensed DAG for SCC and the algorithm for finding the SCCs of a graph(directed), and the Breadth-First Search. |
+
+
+- **Like to be flagged for any typos**
